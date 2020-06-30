@@ -13,6 +13,9 @@
     "require-dev": {
         "phpunit/phpunit": "^9.2"
     },
+    "scripts": {
+        "test": "phpunit"
+    },
     "authors": [
         {
             "name": "Phargelm",

@@ -4,6 +4,13 @@ namespace App\Service\BinInfo;
 
 use \App\Contract\BinInfo\BinInfo as BinInfoContract;
 
+/**
+ * Class BinInfo
+ * @package App\Service\BinInfo
+ *
+ * Only several parameters of bin information are described here, but they can be extended if necessary.
+ * Currently only country name is used.
+ */
 class BinInfo implements BinInfoContract
 {
     private $bankName;
