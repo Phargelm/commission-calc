@@ -1,5 +1,5 @@
 ## CommissionCalc
-App is inteded to calculate commissions for already made transactions.
+App is intended to calculate commissions for already made transactions.
 ## Running
 After pulling repository, install app dependencies, using `composer install`. Assuming your working directory is a project root, execute:
 ```
